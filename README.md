@@ -4,8 +4,8 @@
 **Where**: 410 HMMB
 | Date | Speaker | Topic | Link to Slides|
 |------|---------|-------|---------------|
-|01/15 |Kai-Isaac Ellers|  |  |
-|01/21 |Avijit Shee|  | |
+|01/15 |Kai-Isaac Ellers| Detecting gravitional effects in quantum systems |  |
+|01/21 |Avijit Shee| Hybrid quantum-classical computation of water splitting   | |
 |01/28 |OPEN |  | |
 |02/05 |OPEN |  | |
 |02/12 |OPEN |  | |
