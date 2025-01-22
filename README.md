@@ -15,6 +15,6 @@
 |03/12 |March Meeting Practice Talks |  | |
 |03/19 |March Meeting|  | |
 |03/26 |Spring Break: no group meeting| -- | -- |
-|04/02 | |  | |
-|04/09 | |  | |
+|04/02 |OPEN |  | |
+|04/09 |OPEN |  | |
 |04/16 | |  | |
