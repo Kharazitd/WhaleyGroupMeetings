@@ -12,7 +12,7 @@
 |02/19 |OPEN |  | |
 |02/26 |March Meeting Practice Talks| Tathagata  | |
 |03/05 |Dylan Almieda| | |
-|03/12 |March Meeting Practice Talks |Jordan  | |
+|03/12 |March Meeting Practice Talks |Jordan, Yipei, Philippe  | |
 |03/19 |March Meeting|  | |
 |03/26 |Spring Break: no group meeting| -- | -- |
 |04/02 |OPEN |  | |
