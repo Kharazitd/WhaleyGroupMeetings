@@ -11,7 +11,7 @@
 |02/12 |OPEN |  | |
 |02/19 |OPEN |  | |
 |02/26 |March Meeting Practice Talks| Tathagata  | |
-|03/05 |Dylan Almieda| | |
+|03/05 |Dylan (GRC), Wendy (APSMM)| | |
 |03/12 |March Meeting Practice Talks |Jordan, Yipei, Philippe  | |
 |03/19 |March Meeting|  | |
 |03/26 |Spring Break: no group meeting| -- | -- |
