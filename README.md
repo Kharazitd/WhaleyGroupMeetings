@@ -1,4 +1,4 @@
-# Whaley Group Meetings 
+# Whaley Group Meetings Spring 2025
 **When**: Wednesday 3-4pm
 
 **Where**: 410 HMMB
